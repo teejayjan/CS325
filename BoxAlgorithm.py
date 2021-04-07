@@ -2,6 +2,7 @@
 # Date: 04/05/2021
 # CS 325: Analysis of Algorithms
 # Description: Implements algorithm that checks whether two boxes, represented by a list of coordinates, overlap.
+#              Includes both recursive and linear implementations.
 
 
 def doBoxesOverlap(box1, box2):
